@@ -57,7 +57,31 @@ Per contare anche i commit privati, con github-readme-stats si aggiunge il
 parametro `&count_private=true` — ma resta comunque il fatto che il *servizio*
 vede solo ciò che l'API pubblica espone.
 
-## 5. Alternativa senza servizi esterni
+## 5-bis. Perché le card statistiche sono commentate
+
+Ho provato `github-readme-stats` (il servizio più usato per quelle card) e
+l'istanza pubblica risponde **HTTP 503**:
+
+```bash
+curl -s -o /dev/null -w "%{http_code}\n" \
+  "https://github-readme-stats.vercel.app/api?username=NotJenova&show_icons=true"
+# → 503   (3 tentativi, tutti 503)
+```
+
+È un problema noto e ricorrente dell'istanza gratuita condivisa da tutti
+gli utenti GitHub (rate-limit + Vercel). Con un 503 il browser mostra
+l'icona di **immagine rotta** sulla tua pagina profilo: brutto.
+
+Quindi le ho lasciate **commentate** dentro il README (invisibili a chi
+visita il profilo, ma pronte da riattivare). Tre strade:
+
+1. **Riattivarle** quando il servizio torna su → togli il commento `<!-- -->`
+2. **Self-hostare** l'istanza (fork del repo + deploy su Vercel, ~2 minuti) →
+   indipendente dal rate-limit altrui, molto più affidabile
+3. **Non usarle** → come ora: shields.io risponde 200, il profilo è pulito e
+   carica velocissimo
+
+## 5-ter. Alternativa senza servizi esterni
 
 Se non vuoi dipendere da `github-readme-stats.vercel.app` (che a volte è lento
 o va in rate-limit), puoi:
@@ -77,6 +101,18 @@ o va in rate-limit), puoi:
    - sezione "What I'm up to" + contatti
 2. Questo file `HOW-IT-WORKS.md` — non appare sul profilo, è solo documentazione
    per te (GitHub mostra **solo** il `README.md`).
+
+Per la cronaca, il `README.md` contiene:
+
+- header e tagline
+- sezione "Tech I work with" con badge shields.io (tutti verificati: HTTP 200)
+- le card statistiche di github-readme-stats, **commentate** (vedi 5-bis)
+- sezione "Currently" + contatti
+
+> ⚠️ Le tecnologie nei badge (Python, JavaScript, Node, Java, Docker, Git,
+> Linux) le ho dedotte dagli strumenti presenti sul tuo sistema, non le ho
+> inventate — ma **controllale e correggile**: sono la cosa più visibile del
+> profilo e devono rispecchiarti davvero.
 
 ## 7. Prossimi passi possibili
 

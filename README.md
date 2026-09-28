@@ -20,19 +20,30 @@ my engineering craft and shipping projects I actually use.
 
 ---
 
-### 📊 GitHub Stats
+<!--
+  === CARD STATISTICHE (disattivate) ===
+
+  Queste immagini NON sono parte del README: sono generate al volo da un
+  servizio esterno (github-readme-stats) che legge la GitHub API tramite il
+  parametro ?username=NotJenova.
+
+  Le ho commentate perche' l'istanza pubblica Vercel al momento risponde
+  503 (rate-limit / servizio giu'), quindi sul profilo si vedrebbe
+  l'icona di immagine rotta. Per riattivarle basta togliere questo commento
+  quando il servizio torna su (oppure self-hostarlo: si deploya su Vercel
+  in 2 minuti).
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=NotJenova&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotJenova&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
+-->
 
----
-
-### 🔭 What I'm up to
+### 🎯 Currently
 
 - 🔭 Building **small web apps** and side projects
-- 🌱 Learning more about **backend architecture** and **data**
+- 🌱 Deepening **backend architecture** and **data** fundamentals
+- 🧪 Experimenting with **automation** and developer tooling
 - 💬 Ask me about **Python, web dev, or Linux**
 
 ---
@@ -40,5 +51,8 @@ my engineering craft and shipping projects I actually use.
 ### 📫 Reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-NotJenova-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotJenova)
+
+<!-- Sostituisci/aggiungi qui i tuoi link reali: LinkedIn, X, email, sito personale.
+     Esempio: [![LinkedIn](https://img.shields.io/badge/LinkedIn-nome-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuoprofilo) -->
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
