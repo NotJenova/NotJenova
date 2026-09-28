@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/NotJenova/NotJenova/main/.well-known/pi-coding-agent.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/NotJenova/NotJenova@main/cimd/pi-coding-agent.json",
   "client_name": "Pi Coding Agent",
   "client_uri": "https://github.com/nicobailon/pi-mcp-adapter",
   "redirect_uris": [
