@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="frTitle frDesc">
+<title id="frTitle">Pixel avatar frame</title>
+<desc id="frDesc">Cornice pixel art 160x160 con angoli luminosi pulsanti e centro trasparente per l avatar.</desc>
+<defs>
+<radialGradient id="gHal"><stop offset="0" stop-color="#7aa2f7" stop-opacity="0.55"/><stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/></radialGradient>
+<radialGradient id="gHalP"><stop offset="0" stop-color="#bb9af7" stop-opacity="0.5"/><stop offset="100%" stop-color="#bb9af7" stop-opacity="0"/></radialGradient>
+<clipPath id="band" clip-rule="evenodd"><path d="M0 0H160V160H0Z M16 16H144V144H16Z"/></clipPath>
+</defs>
+<style><![CDATA[@keyframes pulse{0%,100%{opacity:.30}50%{opacity:1}}
+@keyframes halo{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes tick{0%,100%{opacity:.45}50%{opacity:.95}}
+.c1{animation:pulse 3s ease-in-out infinite}
+.c2{animation:pulse 3s ease-in-out infinite;animation-delay:.35s}
+.c3{animation:pulse 3s ease-in-out infinite;animation-delay:.7s}
+.c4{animation:pulse 3s ease-in-out infinite;animation-delay:1.05s}
+.h1{animation:halo 3s ease-in-out infinite}
+.h2{animation:halo 3s ease-in-out infinite;animation-delay:.35s}
+.h3{animation:halo 3s ease-in-out infinite;animation-delay:.7s}
+.h4{animation:halo 3s ease-in-out infinite;animation-delay:1.05s}
+.edge{animation:tick 5s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}]]></style>
+<g shape-rendering="crispEdges">
+<rect x="8" y="0" width="144" height="8" fill="#30363d"/>
+<rect x="8" y="152" width="144" height="8" fill="#30363d"/>
+<rect x="0" y="8" width="8" height="144" fill="#30363d"/>
+<rect x="152" y="8" width="8" height="144" fill="#30363d"/>
+<rect x="8" y="8" width="144" height="8" fill="#161b22"/>
+<rect x="8" y="144" width="144" height="8" fill="#161b22"/>
+<rect x="8" y="16" width="8" height="128" fill="#161b22"/>
+<rect x="144" y="16" width="8" height="128" fill="#161b22"/>
+<g clip-path="url(#band)">
+<rect x="0" y="0" width="56" height="56" fill="url(#gHal)" class="h1"/>
+<rect x="104" y="0" width="56" height="56" fill="url(#gHal)" class="h2"/>
+<rect x="0" y="104" width="56" height="56" fill="url(#gHalP)" class="h3"/>
+<rect x="104" y="104" width="56" height="56" fill="url(#gHalP)" class="h4"/>
+</g>
+<rect x="8" y="8" width="8" height="8" fill="#89ddff" class="c1"/>
+<rect x="144" y="8" width="8" height="8" fill="#7aa2f7" class="c2"/>
+<rect x="8" y="144" width="8" height="8" fill="#bb9af7" class="c3"/>
+<rect x="144" y="144" width="8" height="8" fill="#9ece6a" class="c4"/>
+<rect x="16" y="8" width="4" height="4" fill="#89ddff" fill-opacity="0.8" class="c1"/>
+<rect x="140" y="8" width="4" height="4" fill="#7aa2f7" fill-opacity="0.8" class="c2"/>
+<rect x="16" y="148" width="4" height="4" fill="#bb9af7" fill-opacity="0.8" class="c3"/>
+<rect x="140" y="148" width="4" height="4" fill="#9ece6a" fill-opacity="0.8" class="c4"/>
+<rect x="76" y="0" width="8" height="8" fill="#89ddff" fill-opacity="0.9" class="edge"/>
+<rect x="76" y="152" width="8" height="8" fill="#89ddff" fill-opacity="0.9" class="edge"/>
+<rect x="0" y="76" width="8" height="8" fill="#89ddff" fill-opacity="0.9" class="edge"/>
+<rect x="152" y="76" width="8" height="8" fill="#89ddff" fill-opacity="0.9" class="edge"/>
+</g>
+</svg>
