@@ -1,58 +1,109 @@
-# Hi, I'm NotJenova 👋
+<div align="center">
 
-> Turning curiosity into commits.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · notjenova</sub></p>
+<h1>notjenova</h1>
+<h2>Product-minded developer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-I'm a developer who likes building things end-to-end — from small web apps
-to experiments with data and automation. Right now I'm focused on levelling up
-my engineering craft and shipping projects I actually use.
+<p><a href="https://github.com/notjenova">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/173968134?u=0e91cfdb728bc7ae1103f1063ea595c85951e72b&amp;v=4" width="180" alt="notjenova GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### 🧰 Tech I work with
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>3 contributions · 2 active days</p></td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-<!--
-  === CARD STATISTICHE (disattivate) ===
-
-  Queste immagini NON sono parte del README: sono generate al volo da un
-  servizio esterno (github-readme-stats) che legge la GitHub API tramite il
-  parametro ?username=NotJenova.
-
-  Le ho commentate perche' l'istanza pubblica Vercel al momento risponde
-  503 (rate-limit / servizio giu'), quindi sul profilo si vedrebbe
-  l'icona di immagine rotta. Per riattivarle basta togliere questo commento
-  quando il servizio torna su (oppure self-hostarlo: si deploya su Vercel
-  in 2 minuti).
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NotJenova&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotJenova&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=notjenova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173968134%3Fu%3D0e91cfdb728bc7ae1103f1063ea595c85951e72b%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=notjenova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173968134%3Fu%3D0e91cfdb728bc7ae1103f1063ea595c85951e72b%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="notjenova GitHub proof metrics" />
+</picture>
 </p>
--->
 
-### 🎯 Currently
+<h2>Selected work</h2>
 
-- 🔭 Building **small web apps** and side projects
-- 🌱 Deepening **backend architecture** and **data** fundamentals
-- 🧪 Experimenting with **automation** and developer tooling
-- 💬 Ask me about **Python, web dev, or Linux**
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=notjenova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173968134%3Fu%3D0e91cfdb728bc7ae1103f1063ea595c85951e72b%26v%3D4&repos=notjenova%2FNotJenova&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=notjenova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173968134%3Fu%3D0e91cfdb728bc7ae1103f1063ea595c85951e72b%26v%3D4&repos=notjenova%2FNotJenova&v=recruiter-projects-1&mode=dark" width="100%" alt="notjenova selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/NotJenova/NotJenova">NotJenova</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/NotJenova/NotJenova">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
 
-### 📫 Reach me
+</tr>
+</table>
 
-[![GitHub](https://img.shields.io/badge/GitHub-NotJenova-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotJenova)
+<h2>Technical toolkit</h2>
 
-<!-- Sostituisci/aggiungi qui i tuoi link reali: LinkedIn, X, email, sito personale.
-     Esempio: [![LinkedIn](https://img.shields.io/badge/LinkedIn-nome-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuoprofilo) -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=notjenova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173968134%3Fu%3D0e91cfdb728bc7ae1103f1063ea595c85951e72b%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=notjenova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173968134%3Fu%3D0e91cfdb728bc7ae1103f1063ea595c85951e72b%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="notjenova technology stack" />
+</picture>
+</p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=notjenova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173968134%3Fu%3D0e91cfdb728bc7ae1103f1063ea595c85951e72b%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=notjenova&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F173968134%3Fu%3D0e91cfdb728bc7ae1103f1063ea595c85951e72b%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="notjenova contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/notjenova">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>notjenova · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
